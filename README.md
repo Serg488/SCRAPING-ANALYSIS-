@@ -7,7 +7,7 @@
 ## Description
 In this assignment i will be collecting, organizing, storing, web scraping, and analyzing the data of a Mars news article. For this i will be using HTML parsing with Beautiful Soup and Splinter.
 
-![app_image]("C:\Users\sergi\OneDrive\Pictures\Screenshots\Screenshot 2024-10-13 231823.png" "C:\Users\sergi\OneDrive\Pictures\Screenshots\Screenshot 2024-10-13 230506.png")
+![app_image]("C:\Users\sergi\OneDrive\Pictures\Screenshots\mockup.png2.png")
 
 ## Table of Contents
 - [Installation](#installation)
