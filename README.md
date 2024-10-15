@@ -24,7 +24,7 @@ HTML, Beautiful Soup, Splinter
 To be used to practice and analyze web scraping.
 
 ## Credits
-Sergio R.
+For my work in this analysis i obtained the help of my professor and xpertlearning.
 
 ## License
 MIT
